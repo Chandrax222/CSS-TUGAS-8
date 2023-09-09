@@ -1,0 +1,26 @@
+body {
+    background: url("../TUGAS 8/Stupa_Borobudur.jpg") no-repeat center center fixed;
+}
+div.satu {
+    background: url("../TUGAS 8/avocado.jpg") repeat-y white fixed;
+    background-size: left left;
+    border: 3px solid black;
+    width: 820px;
+    height: 320px;
+    overflow: scroll;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    color: blue;
+    font-weight: 700;
+}
+
+p.dua {
+    color: green;
+}
+
+p.tiga {
+    color: red;
+}
